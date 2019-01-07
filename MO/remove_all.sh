@@ -1,0 +1,35 @@
+#!/bin/sh
+
+cd AP3 
+rm *full_data.dat
+cd ../
+cd AP4 
+rm *full_data.dat
+cd ../
+cd ENG 
+rm *full_data.dat
+cd ../
+cd H4 
+rm *full_data.dat
+cd ../
+cd MPA1 
+rm *full_data.dat
+cd ../
+cd MS0 
+rm *full_data.dat
+cd ../
+cd MS2 
+rm *full_data.dat
+cd ../
+cd PAL1 
+rm *full_data.dat
+cd ../
+cd SLy4 
+rm *full_data.dat
+cd ../
+cd WFF1 
+rm *full_data.dat
+cd ../
+cd WFF2 
+rm *full_data.dat
+cd ../
